@@ -1,0 +1,147 @@
+{
+  "en": {
+    "work": {
+      "high": [
+        "I have a serious family emergency that requires my immediate attention and I need to leave work right away.",
+        "My car broke down on the highway and I need to wait for emergency roadside assistance.",
+        "I'm experiencing severe food poisoning and cannot safely travel to work today.",
+        "There's a gas leak in my apartment building and everyone has been evacuated.",
+        "I have a medical emergency and need to get to the doctor immediately.",
+        "My child's school called with an emergency and I need to pick them up right now.",
+        "I'm having a severe allergic reaction and need to get to urgent care immediately."
+      ],
+      "medium": [
+        "I'm experiencing unexpected car trouble and need to get it resolved before I can come in today.",
+        "I have a doctor's appointment that was moved to today due to a cancellation and it's the only available slot.",
+        "My childcare fell through at the last minute and I need to find alternative arrangements.",
+        "I'm dealing with a plumbing emergency at home that requires immediate attention.",
+        "I'm feeling quite unwell and think it would be best to rest and not risk spreading anything.",
+        "I have a family commitment that I cannot reschedule that came up unexpectedly.",
+        "My internet and power went out due to a local outage and I cannot work from home effectively.",
+        "I have a dental emergency and need to see my dentist today.",
+        "My pet is severely ill and I need to take them to the emergency vet.",
+        "I'm dealing with a water leak in my apartment that requires my immediate attention."
+      ],
+      "low": [
+        "I'm feeling under the weather and think it would be best to take a sick day to recover.",
+        "I have a minor family matter to attend to that requires my presence.",
+        "I'm experiencing some personal issues that I need to take care of today.",
+        "I'm not feeling well enough to be productive at work today.",
+        "I have a pre-existing appointment that I forgot to mention earlier.",
+        "I'm feeling quite tired and don't think I can focus effectively today.",
+        "I have some personal errands that I need to catch up on."
+      ]
+    },
+    "school": {
+      "high": [
+        "I have a medical emergency and need to get to the hospital immediately.",
+        "There's been a family crisis that requires my immediate attention.",
+        "I'm experiencing severe illness and cannot safely attend classes today.",
+        "My apartment building had a fire alarm evacuation and we're not allowed back in.",
+        "I have severe food poisoning and cannot leave my home.",
+        "My car broke down in a dangerous area and I'm waiting for emergency assistance.",
+        "I'm having a panic attack and need to seek immediate medical attention."
+      ],
+      "medium": [
+        "I'm quite sick with flu-like symptoms and my doctor advised me to stay home.",
+        "I have a medical appointment that was rescheduled to today on short notice.",
+        "My car broke down and I have no alternative transportation to campus.",
+        "I'm dealing with a family emergency that requires my attention today.",
+        "I'm experiencing internet connectivity issues that prevent me from attending online classes.",
+        "I have a severe migraine and cannot concentrate on coursework.",
+        "My childcare arrangements fell through and I need to stay with my child.",
+        "I'm feeling very nauseous and don't think I can attend class effectively.",
+        "I have a sudden work commitment that I cannot reschedule.",
+        "My laptop crashed and I lost important assignments that I need to recover."
+      ],
+      "low": [
+        "I'm not feeling well and think it's better to rest and recover at home today.",
+        "I have a personal matter to attend to that I cannot reschedule.",
+        "I'm feeling quite tired and don't think I can focus effectively on my studies today.",
+        "I have a minor health issue that I need to address today.",
+        "I'm experiencing some stress and need a mental health day.",
+        "I have some family obligations that came up unexpectedly."
+      ]
+    },
+    "social": {
+      "high": [
+        "I have a critical work emergency that requires my immediate attention.",
+        "There's been a family crisis and I need to be with my family right now.",
+        "I'm feeling very unwell and don't want to risk getting others sick.",
+        "I have a medical emergency that I need to handle immediately.",
+        "My car broke down and I have no way to get to the event.",
+        "I have a severe migraine and cannot be around noise or crowds.",
+        "There's been an emergency at home that requires my immediate presence."
+      ],
+      "medium": [
+        "I have an unexpected work commitment that came up last minute.",
+        "I have a family obligation that I can't reschedule.",
+        "I'm not feeling well and think it's best to stay home and rest.",
+        "I have a prior commitment that I had forgotten about.",
+        "I'm dealing with a personal matter that requires my attention today.",
+        "I have a doctor's appointment that was moved to today.",
+        "I'm experiencing transportation issues and cannot make it to the event.",
+        "My pet is sick and I need to take care of them today.",
+        "I have a work deadline that I absolutely must meet.",
+        "I'm dealing with some family issues that need my attention."
+      ],
+      "low": [
+        "I'm feeling a bit under the weather and would prefer to stay in today.",
+        "I have some personal tasks that I need to catch up on.",
+        "I'm feeling quite tired and don't think I'd be good company today.",
+        "I have some work to finish up that I need to focus on.",
+        "I'm not feeling very social today and need some alone time.",
+        "I have some household chores that I've been putting off."
+      ]
+    },
+    "family": {
+      "high": [
+        "I have a critical work deadline that absolutely cannot be missed.",
+        "I have a work emergency that requires my immediate attention.",
+        "I'm feeling very unwell and don't want to risk getting family members sick.",
+        "I have a medical appointment that was scheduled as an emergency.",
+        "I'm dealing with a serious personal matter that needs my full attention.",
+        "My boss called an emergency meeting that I cannot miss.",
+        "I have a client crisis that requires my immediate intervention."
+      ],
+      "medium": [
+        "I have an important work commitment that came up unexpectedly.",
+        "I'm not feeling well and think it's best to rest at home today.",
+        "I have a prior engagement that I had forgotten about and cannot reschedule.",
+        "I'm dealing with some personal issues that require my attention.",
+        "I have a work meeting that was moved to today on short notice.",
+        "I'm experiencing some health issues and need to take care of myself today.",
+        "I have transportation problems and cannot make it today.",
+        "I have a doctor's appointment that I cannot reschedule.",
+        "I'm feeling overwhelmed with work and need to focus on catching up.",
+        "I have some personal errands that I absolutely must complete today."
+      ],
+      "low": [
+        "I have some work that I need to catch up on and need to focus today.",
+        "I'm feeling a bit tired and would prefer to have a quiet day at home.",
+        "I have some personal tasks that I've been putting off and need to handle.",
+        "I'm not feeling very social today and would like some time to myself.",
+        "I have some cleaning and organizing to do at home.",
+        "I'm feeling a bit stressed and need some alone time to recharge."
+      ]
+    }
+  },
+  "es": {
+    "work": {
+      "high": [
+        "Tengo una emergencia familiar grave que requiere mi atención inmediata.",
+        "Mi coche se averió en la autopista y necesito asistencia de emergencia.",
+        "Tengo una intoxicación alimentaria severa y no puedo viajar al trabajo."
+      ],
+      "medium": [
+        "Tengo problemas inesperados con el coche y necesito solucionarlo antes de poder ir.",
+        "Tengo una cita médica que fue cambiada para hoy debido a una cancelación.",
+        "Mi cuidado de niños se canceló de último momento y necesito encontrar alternativas."
+      ],
+      "low": [
+        "Me siento mal y creo que sería mejor tomar un día de enfermedad para recuperarme.",
+        "Tengo un asunto familiar menor que atender que requiere mi presencia."
+      ]
+    }
+  }
+}
